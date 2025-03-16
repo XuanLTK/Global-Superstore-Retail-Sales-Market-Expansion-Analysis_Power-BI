@@ -1,4 +1,4 @@
-# Global-Superstore-Retail-Sales-Market-Expansion-Analysis_Power-BI
+# Global Superstore Retail Sales & Market Expansion Analysis
 ## PART 1: DESIGN THINKING
 - ### Stage 1: Empathize - Nhìn rộng
 
